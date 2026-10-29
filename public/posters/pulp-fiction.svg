@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Pulp Fiction poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a0d0d"/><stop offset="1" stop-color="#140404"/></linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#140404" stop-opacity="0"/><stop offset=".55" stop-color="#140404" stop-opacity=".92"/><stop offset="1" stop-color="#140404"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".4" r=".8"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient>
+</defs>
+<rect width="600" height="900" fill="url(#bg)"/>
+<g><circle cx="300" cy="200" r="130" fill="#ffd23f"/><rect x="170" y="190" width="260" height="14" fill="#140404"/><rect x="0" y="340" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="150" y="340" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="300" y="340" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="450" y="340" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="75" y="415" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="225" y="415" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="375" y="415" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="525" y="415" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="0" y="490" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="150" y="490" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="300" y="490" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="450" y="490" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="75" y="565" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="225" y="565" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="375" y="565" width="75" height="75" fill="#ffd23f" opacity=".9"/><rect x="525" y="565" width="75" height="75" fill="#ffd23f" opacity=".9"/></g>
+<rect y="440" width="600" height="460" fill="url(#band)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<text x="40" y="808" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="#fff">Pulp Fiction</text>
+<text x="40" y="858" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff" opacity=".8">1994, directed by Quentin Tarantino</text>
+<rect x="12" y="12" width="576" height="876" rx="6" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2"/>
+</svg>

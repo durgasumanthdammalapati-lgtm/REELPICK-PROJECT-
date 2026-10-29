@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Gladiator poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6b3b16"/><stop offset="1" stop-color="#1f0f05"/></linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f0f05" stop-opacity="0"/><stop offset=".55" stop-color="#1f0f05" stop-opacity=".92"/><stop offset="1" stop-color="#1f0f05"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".4" r=".8"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient>
+</defs>
+<rect width="600" height="900" fill="url(#bg)"/>
+<g><circle cx="300" cy="170" r="110" fill="#e8b86a" opacity=".9"/><rect x="0" y="250" width="600" height="390" fill="#1f0f05" opacity=".85"/><path d="M30 420 V340 A44 44 0 0 1 118 340 V420Z" fill="#e8b86a" opacity="0.8"/><path d="M142 420 V340 A44 44 0 0 1 230 340 V420Z" fill="#e8b86a" opacity="0.8"/><path d="M254 420 V340 A44 44 0 0 1 342 340 V420Z" fill="#e8b86a" opacity="0.8"/><path d="M366 420 V340 A44 44 0 0 1 454 340 V420Z" fill="#e8b86a" opacity="0.8"/><path d="M478 420 V340 A44 44 0 0 1 566 340 V420Z" fill="#e8b86a" opacity="0.8"/><path d="M30 590 V510 A44 44 0 0 1 118 510 V590Z" fill="#e8b86a" opacity="0.55"/><path d="M142 590 V510 A44 44 0 0 1 230 510 V590Z" fill="#e8b86a" opacity="0.55"/><path d="M254 590 V510 A44 44 0 0 1 342 510 V590Z" fill="#e8b86a" opacity="0.55"/><path d="M366 590 V510 A44 44 0 0 1 454 510 V590Z" fill="#e8b86a" opacity="0.55"/><path d="M478 590 V510 A44 44 0 0 1 566 510 V590Z" fill="#e8b86a" opacity="0.55"/></g>
+<rect y="440" width="600" height="460" fill="url(#band)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<text x="40" y="808" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="#fff">Gladiator</text>
+<text x="40" y="858" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff" opacity=".8">2000, directed by Ridley Scott</text>
+<rect x="12" y="12" width="576" height="876" rx="6" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2"/>
+</svg>

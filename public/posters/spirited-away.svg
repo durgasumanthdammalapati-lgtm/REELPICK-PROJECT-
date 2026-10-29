@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900" role="img" aria-label="Spirited Away poster">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1f5e"/><stop offset="1" stop-color="#0b0722"/></linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0722" stop-opacity="0"/><stop offset=".55" stop-color="#0b0722" stop-opacity=".92"/><stop offset="1" stop-color="#0b0722"/></linearGradient>
+<radialGradient id="vig" cx=".5" cy=".4" r=".8"><stop offset=".6" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".35"/></radialGradient>
+</defs>
+<rect width="600" height="900" fill="url(#bg)"/>
+<g><circle cx="300" cy="230" r="170" fill="#7fe0d0" opacity=".9"/><line x1="78" y1="0" x2="78" y2="195" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="78" cy="223" rx="26" ry="36" fill="#ff9a5a"/><rect x="64" y="191" width="28" height="8" fill="#0b0722"/><line x1="151" y1="0" x2="151" y2="365" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="151" cy="393" rx="26" ry="36" fill="#ff9a5a"/><rect x="137" y="361" width="28" height="8" fill="#0b0722"/><line x1="235" y1="0" x2="235" y2="223" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="235" cy="251" rx="26" ry="36" fill="#ff9a5a"/><rect x="221" y="219" width="28" height="8" fill="#0b0722"/><line x1="319" y1="0" x2="319" y2="158" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="319" cy="186" rx="26" ry="36" fill="#ff9a5a"/><rect x="305" y="154" width="28" height="8" fill="#0b0722"/><line x1="394" y1="0" x2="394" y2="142" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="394" cy="170" rx="26" ry="36" fill="#ff9a5a"/><rect x="380" y="138" width="28" height="8" fill="#0b0722"/><line x1="467" y1="0" x2="467" y2="205" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="467" cy="233" rx="26" ry="36" fill="#ff9a5a"/><rect x="453" y="201" width="28" height="8" fill="#0b0722"/><line x1="551" y1="0" x2="551" y2="221" stroke="#ff9a5a" opacity=".5" stroke-width="2"/><ellipse cx="551" cy="249" rx="26" ry="36" fill="#ff9a5a"/><rect x="537" y="217" width="28" height="8" fill="#0b0722"/><path d="M0 640 V540 L90 500 L120 540 L200 470 L260 520 L340 450 L430 520 L500 480 L600 540 V640Z" fill="#0b0722"/></g>
+<rect y="440" width="600" height="460" fill="url(#band)"/>
+<rect width="600" height="900" fill="url(#vig)"/>
+<text x="40" y="808" font-family="Georgia, 'Times New Roman', serif" font-size="75" font-weight="700" fill="#fff">Spirited Away</text>
+<text x="40" y="858" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#fff" opacity=".8">2001, directed by Hayao Miyazaki</text>
+<rect x="12" y="12" width="576" height="876" rx="6" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2"/>
+</svg>
